@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     Welcome to my GitHub page, where I'm keeping my pet projects and demo apps
 </h2>
 <h3>
-    My CV: <a href="https://github.com/aidaho/orgmode-resume/raw/refs/heads/master/myresume.pdf" download="Serhii Frolov Resume.pdf">Serhii Frolov Resume.pdf</a>
+    My CV: <a href="https://github.com/aidaho/orgmode-resume/raw/refs/heads/master/Serhii%20Frolov%20Resume.pdf">Serhii Frolov Resume.pdf</a>
 </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidaho)](https://github.com/aidaho?tab=repositories)
