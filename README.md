@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aidaho/aidaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+    Hi there 👋, I'm Serhii. A full stack programmer and AI enthusiast.
+</h1>
+<h2 align="center">
+    Welcome to my GitHub page, where I'm keeping my pet projects and demo apps
+</h2>
+<h3>
+    My CV: [https://github.com/aidaho/orgmode-resume/raw/refs/heads/master/Serhii%20Frolov%20Resume.pdf](Serhii Frolov Resume.pdf)
+</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidaho&layout=donut)](https://github.com/aidaho?tab=repositories)
