@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    Hi there 👋, I'm Serhii. A full stack programmer and AI enthusiast.
+    Hi there 👋, I'm Serhii. A full stack programmer and an AI enthusiast.
 </h1>
 <h2 align="center">
     Welcome to my GitHub page, where I'm keeping my pet projects and demo apps
